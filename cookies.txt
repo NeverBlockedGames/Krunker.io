@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.krunker.io	TRUE	/	FALSE	1999999999	__cf_bm	hLsxiulOVc8UiVwktM_AaljsSqXBZZb00m6Wrnm6kZw-1716054002-1.0.1.1-sVZohGnH3vfUCN38WbvbLQK3xQo1Fe01wuwfrnJPOYIE3rgzTNb5Q1Id3zao9tl2a.Q1xuG2_LOPS_QDvaFBBw
+krunker.io	TRUE	/	FALSE	1999999999	SameSite	None
+
